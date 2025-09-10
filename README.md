@@ -6,3 +6,4 @@ Primeiro commit
 3 Lugar: Dread Night
 4 Lugar: Chain Breaker
 5 Lugar: Lord of Shadows
+Esse foi o top 5 volumes de shadow slave na minha opinião
