@@ -5,3 +5,4 @@ Primeiro commit
 2 Lugar: Demon of change
 3 Lugar: Dread Night
 4 Lugar: Chain Breaker
+5 Lugar: Lord of Shadows
